@@ -1,0 +1,27 @@
+{
+  "name": "cefet-web-geiser",
+  "version": "0.1.0",
+  "description": "Visualizador de PCs fritando",
+  "main": "server/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusougz/cefet-web-geiser.git"
+  },
+  "author": "Guilherme Giacomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusougz/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/eusougz/cefet-web-geiser#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
